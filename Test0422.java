@@ -7,6 +7,7 @@
 		new C().avgFunc(x, y);
 	}
 }
+<<<<<<< HEAD
 
 class A{
 
@@ -24,3 +25,19 @@ class A{
 
 
 
+=======
+class B
+{
+	void maxFunc(int x,int y)
+	{
+		if(x>y)
+		{
+			System.out.println("max:"+x);
+		}
+		if(y>x)
+		{
+			System.out.println("max:"+y);
+		}
+	}
+}
+>>>>>>> 79be7dff3015b863cde071e8adbf274c8685bd24
