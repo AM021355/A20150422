@@ -9,6 +9,21 @@
 }
 <<<<<<< HEAD
 
+class c
+{
+	void avgFunc(int x,int y){
+
+
+	System.out.printf("%.2f",(float)(x+y)/2);
+
+
+
+    }
+
+}
+=======
+<<<<<<< HEAD
+
 class A{
 
 
@@ -41,3 +56,4 @@ class B
 	}
 }
 >>>>>>> 79be7dff3015b863cde071e8adbf274c8685bd24
+>>>>>>> develope
